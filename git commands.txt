@@ -1,0 +1,7 @@
+git init
+git status 
+git add file name 
+git add .
+git commit -m "message"
+git restore filename- to restore deleted file which is in git
+git rm --cache filename - from staging to filesystem
