@@ -9,10 +9,14 @@ git remote add origin https://github.com/LondheShubham153/github-for-devops-work
 git remote -v
 git status
  
-git remote set-url origin https://github.com/LondheShubham153/github-for-devops-workshop.git
+git remote set-url origin https://PAT@github.com/LondheShubham153/github-for-devops-workshop.git
 clear
 git remote -v
-git push origin master
+git push origin master=to push from local to github
 clear
+git pull origin main-to pull from git hub to local
+git branch -to check branch
+git branch branch_name- to create new branch
+git checkout -B branch_name
 
 Yayyyy!
