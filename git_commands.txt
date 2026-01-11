@@ -20,4 +20,5 @@ git branch branch_name- to create new branch
 git switch branch_name
 git checkout -B branch_name-it will create new branch also and also switch to that branch
 Head represents latest commit
+git log
 Yayyyy!
